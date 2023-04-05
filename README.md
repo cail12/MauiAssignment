@@ -1,4 +1,6 @@
 # MauiAssignment
+MAUI stands for .NET Multi-platform App UI. It is a framework for building cross-platform apps using C# and XAML that can run on iOS, Android, Windows, and macOS. MAUI is built on top of the .NET 6 platform and provides a unified API for creating user interfaces and accessing platform-specific features.
+
 App development Using C# and ,NET on MAUI Framework
 A facts app created using C# and MAUI can provide users with interesting and informative facts on various topics. Here are some of the features and functionality that such an app could include:
 
